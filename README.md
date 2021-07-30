@@ -1,2 +1,2 @@
-# [arisgrout.com](arisgrout.com)
+# [arisgrout.com](https://arisgrout.com)
 My in-progress portfolio website
