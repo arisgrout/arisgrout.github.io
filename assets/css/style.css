@@ -952,7 +952,7 @@ Resume Timeline
 .timeline>li .timeline-panel {
     float: left;
     width: 43%;
-    text-align: right;
+    text-align: left;
     border: 1px solid #eee;
     position: relative;
 }
@@ -1602,7 +1602,7 @@ Icon for all respective meta
     border-bottom: 3px double #eee;
 }
 .map-canvas {
-    height: 350px;
+    height: 0px;
 }
 
 
