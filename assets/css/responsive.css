@@ -1,8 +1,8 @@
 /* Extra small devices (phones, less than 768px) */
 @media (max-width : 766px) {
 	.intro h1 {
-		font-size: 40px;
-		line-height: 40px;
+		font-size: 120px;
+		line-height: 100px;
 	}
 
 	.social-icons ul{
@@ -160,8 +160,8 @@
 /* Landscape Mobile */
 @media only screen and (min-width : 480px) and (max-width : 767px) {
 	.intro h1 {
-		font-size: 60px;
-		line-height: 80px;
+		font-size: 120px;
+		line-height: 100px;
 	}
 	
 	.social-icons ul{

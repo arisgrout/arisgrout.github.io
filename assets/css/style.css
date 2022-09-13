@@ -427,15 +427,15 @@ ul.list-check li::before {
 	   -moz-transform: translate(0%, -50%);
 		-ms-transform: translate(0%, -50%);
 		 -o-transform: translate(0%, -50%);
-			transform: translate(0%, -50%);
+			transform: translate(0%, -30%);
 	padding: 0 15px;
 }
 
 .intro h1{
     font-size: 220px;
-    font-weight: 700;
+    font-weight: 700px;
     line-height: 80px;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
     color: #52b3d9;
     line-height:0.8em;
     opacity: 0.8;
